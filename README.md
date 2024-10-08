@@ -3,7 +3,9 @@
 I'm Haralds Meijers, studying Computer Science.
 
 I use github for my personal projects, primarily using rust or c#.
+
 You can reach me at @xelnoc:matrix.org, or email me.
+
 You can also access my website at xelfin.net.
 
 <!--
