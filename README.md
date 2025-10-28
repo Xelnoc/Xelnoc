@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Haralds Meijers, studying Computer Science.
+I'm Xelnoc, studying Computer Science.
 
 I use github for my personal projects, primarily using rust or c#.
 
