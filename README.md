@@ -6,7 +6,7 @@ I use github for my personal projects, primarily using rust or c#.
 
 You can reach me at [matrix](https://matrix.to/#/@xelnoc:matrix.org), or [email](mailto:haralds.meyers@protonmail.com) me.
 
-You can also access my website at [xelfin.net](xelfin.net).
+You can also access my website at [xelfin.net](https://xelfin.net).
 
 <!--
 **Xelnoc/Xelnoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
